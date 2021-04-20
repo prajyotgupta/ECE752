@@ -1,0 +1,2 @@
+grep "ipc_total" golden_benchmarks/$1/stat*
+grep "overall_miss_rate::total" golden_benchmarks/$1/stat*
