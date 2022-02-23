@@ -1,4 +1,4 @@
 # Constant Value Prediction
 ## Author: Prajyot Gupta
 
-ECE 752 Project
+Implementation of “Value Locality and Load Value Prediction”, M. Lipasti et al, ASPLOS’96.
