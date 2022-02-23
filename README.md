@@ -1,2 +1,4 @@
-# ECE752
-ECE 752 Project : Load Value Prediction
+# Constant Value Prediction
+## Author: Prajyot Gupta
+
+ECE 752 Project
